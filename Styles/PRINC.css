@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+iframe{
+	border:none;
+}
+td {
+	border:none;
+	background-color:#CF4AEB;
+	text-align:start;
+}
+tr {
+		border-color:#CF4AEB;
+}
+<!h1 titulos>
+h1 {
+	font-size:24px;
+	text-align:center;
+	color:#000;
+	font-style:italic;
+}
+<!h2 alineacion>
+h2 {
+	text-align:start;
+}
+
+body {
+	background-color:#CF4AEB;
+}
